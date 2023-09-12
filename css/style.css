@@ -11,15 +11,15 @@ h1 {
 .body p {
   font-size: 22px !important;
 }
-.check {
-  position: relative;
-  top: 15px;
-}
 .modal-btn {
   display: flex !important;
   flex-direction: row-reverse !important;
   background-color: #e74d61 !important;
   border-radius: 8px !important;
+}
+.check {
+  position: relative;
+  top: 15px;
 }
 .modal-btn a {
   color: white !important;
