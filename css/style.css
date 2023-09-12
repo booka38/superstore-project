@@ -5,6 +5,10 @@ body {
   background: #130000;
   color: white;
 }
+.btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
 h1 {
   color: #e74d61;
 }
